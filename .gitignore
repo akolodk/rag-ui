@@ -1,0 +1,14 @@
+__pycache__
+_temp
+chroma
+venv
+.env
+store
+bin
+include
+lib
+lib64
+etc
+share
+local_rag
+
