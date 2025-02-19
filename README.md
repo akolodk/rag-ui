@@ -1,2 +1,2 @@
 # Streamlit based chat interface
-an attempt to created a chat interface with python streamlit package.
+an attempt to create a chat interface with python streamlit package.
